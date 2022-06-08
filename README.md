@@ -13,3 +13,11 @@ When you have python and pygame, find :
 and run it.
 
 The game should be launched !
+
+## Screenshots
+
+![Menu](screenshots/menu.png)
+
+![Rafale](screenshots/rafale.png)
+
+![soucoupe](screenshots/soucoupe.png)
